@@ -1,0 +1,57 @@
+@Backend_HostAddress = http://localhost:5231
+@File_Name = RandomTextFile.txt
+@User = salterica
+@Password = es3kanta
+@Bucket = organization-1
+
+
+# @name login
+POST {{Backend_HostAddress}}/api/auth
+Accept: application/json
+Content-Type: application/json
+{
+  "username": "{{User}}",
+  "password": "{{Password}}"
+}
+###
+
+### List buckets
+GET {{Backend_HostAddress}}/api/buckets
+Accept: application/json
+Authorization: Bearer {{login.response.body.$.token}}
+
+### List files in a bucket
+GET {{Backend_HostAddress}}/api/files/{{Bucket}}
+Accept: application/json
+Authorization: Bearer {{login.response.body.$.token}}
+
+### List with no token (SHOULD FAIL)
+GET {{Backend_HostAddress}}/api/files/{{Bucket}}
+Accept: application/json
+
+### List files in a bucket with prefix
+GET {{Backend_HostAddress}}/api/files/{{Bucket}}?prefix={{User}}/
+Accept: application/json
+Authorization: Bearer {{login.response.body.$.token}}
+
+### Upload a file
+POST {{Backend_HostAddress}}/api/files/{{Bucket}}/{{User}}/{{File_Name}}
+Content-Type: multipart/form-data; boundary=WebAppBoundary
+Authorization: Bearer {{login.response.body.$.token}}
+
+--WebAppBoundary
+Content-Disposition: form-data; name="file"; filename="{{File_Name}}"
+Content-Type: text/plain
+
+< This is an empty text file.
+--WebAppBoundary--
+
+### Get a file
+GET {{Backend_HostAddress}}/api/files/{{Bucket}}/{{User}}/{{File_Name}}
+Authorization: Bearer {{login.response.body.$.token}}
+
+
+### Delete a file
+DELETE {{Backend_HostAddress}}/api/files/{{Bucket}}/{{User}}/{{File_Name}}
+Accept: application/json
+Authorization: Bearer {{login.response.body.$.token}}

@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:services\\minioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\controllers\\bucketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:controllers\\bucketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\models\\enums\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:models\\enums\\filetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\models\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:models\\filedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:models\\requests\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\models\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:models\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|c:\\users\\ntrogrlic\\documents\\projects\\ignitech\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAD5ADB0-2293-4537-AA64-C6655C046858}|Backend.csproj|solutionrelative:backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Backend.http",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Backend.http",
+              "RelativeDocumentMoniker": "Backend.http",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Backend.http",
+              "RelativeToolTip": "Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-04T18:53:11.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FileData.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\FileData.cs",
+              "RelativeDocumentMoniker": "Models\\FileData.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\FileData.cs",
+              "RelativeToolTip": "Models\\FileData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T09:22:23.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\Requests\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\Requests\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\Requests\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\Requests\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:38:07.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBoAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:33:57.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:32:06.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAvwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:30:57.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FilesController.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "Controllers\\FilesController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:00:43.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MinioService.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Services\\MinioService.cs",
+              "RelativeDocumentMoniker": "Services\\MinioService.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Services\\MinioService.cs",
+              "RelativeToolTip": "Services\\MinioService.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAMwIAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:40:29.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T08:35:08.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T08:33:05.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BucketsController.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Controllers\\BucketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BucketsController.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Controllers\\BucketsController.cs",
+              "RelativeToolTip": "Controllers\\BucketsController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:12:27.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileType.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\Enums\\FileType.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\FileType.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\Enums\\FileType.cs",
+              "RelativeToolTip": "Models\\Enums\\FileType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:18:51.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Models\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Models\\Enums\\Roles.cs",
+              "RelativeToolTip": "Models\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T09:40:53.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T11:00:03.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Backend.csproj",
+              "DocumentMoniker": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend.csproj",
+              "ToolTip": "C:\\Users\\ntrogrlic\\Documents\\Projects\\Ignitech\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T08:29:59.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
