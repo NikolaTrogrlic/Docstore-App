@@ -1,0 +1,81 @@
+.top-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #2c3e50;
+    padding: 10px 20px;
+    color: white;
+    z-index: 1000;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .search-input {
+    padding: 6px 10px;
+    border-radius: 4px;
+    border: none;
+    font-size: 20px;
+    width: 380px;
+  }
+  
+  .right-section {
+    overflow: auto;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .upload-btn {
+    background-color: #3498db;
+    color: white;
+    margin: 5px;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 20px;
+    cursor: pointer;
+  }
+  
+  .logout-link {
+    cursor: pointer;
+    color: #ecf0f1;
+    text-decoration: underline;
+  }
+
+  .combo-box {
+    padding: 6px 5px;
+    border-radius: 4px;
+    border: none;
+    font-size: 20px;
+    width: 240px;
+    margin-left: 10px;
+    background-color: white;
+    text-align: center;
+    color: #2c3e50;
+    cursor: pointer;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%232c3e50'%3e%3cpath d='M7 10l5 5 5-5z'/%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 8px center;
+    background-size: 20px;
+  }
+  
+  .combo-box:focus {
+    outline: 2px solid #3498db;
+  }
+  
+  .combo-box option {
+    background: white;
+    color: #2c3e50;
+  }
+  
+  .left-section {
+    display: flex;
+    align-items: center;
+  }
+  

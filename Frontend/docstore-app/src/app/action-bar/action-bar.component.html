@@ -1,0 +1,32 @@
+<div class="top-bar">
+    <div class="left-section">
+      <input
+        type="text"
+        [(ngModel)]="searchQuery"
+        (input)="onSearch()"
+        placeholder="Search..."
+        class="search-input"
+      />
+    </div>
+  
+    <div class="right-section">
+
+      <select 
+        [(ngModel)]="selectedOption" 
+        (change)="onOptionChange()"
+        class="combo-box"
+      >
+        <option value="">Select an option</option>
+        <option *ngFor="let option of options" [value]="option">
+          {{ option }}
+        </option>
+      </select>
+
+      <label class="upload-btn">
+        <input type="file" (change)="onFileSelected($event)" hidden multiple  />
+        Upload File
+      </label>
+  
+      <a class="logout-link" (click)="logout()">Logout</a>
+    </div>
+</div>

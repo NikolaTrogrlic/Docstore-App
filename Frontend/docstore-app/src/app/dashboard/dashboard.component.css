@@ -1,0 +1,22 @@
+.dashboard-wrapper{
+    margin: 85px 20px 0px 20px;
+}
+
+.file-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap: 20px;
+}
+
+@media (max-width:641px){
+    .file-wrapper{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .dashboard-wrapper{
+        margin-top: 150px;
+    }
+}

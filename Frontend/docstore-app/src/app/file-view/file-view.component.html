@@ -1,0 +1,8 @@
+<div class="file-card" (click)="openDetails()" [style.borderLeft]="'8px solid ' + (file.name | fileExtensionColor)">
+    <button class="delete-btn" (click)="onDelete($event)">✕</button>
+  
+    <div class="file-info">
+      <h4>{{ file.name }}</h4>
+      <p>Size: {{ file.fileSize}}</p>
+    </div>
+</div>
